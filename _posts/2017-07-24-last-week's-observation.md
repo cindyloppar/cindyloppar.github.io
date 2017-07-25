@@ -1,6 +1,6 @@
 ---
 layout: 
-title:  "lask week's observation"
+title:  "last week's observation"
 date:   2017-07-24 09:48
 categories: 
 ---
