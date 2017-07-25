@@ -1,4 +1,12 @@
-﻿Design Thinking 
+---
+layout: 
+title:  "design thinking"
+date:   2017-07-21 09:42
+categories: 
+---
+
+
+Design Thinking 
 
 Design Thinking is a methodology used by designers to solve complex problems
 and find desirable solutions for clients. A design mindset is not problem-
