@@ -1,4 +1,13 @@
-﻿I have learn a lot in the past two days i have been here,
+---
+layout: 
+title:  "learning html"
+date:   2017-07-14 09:31
+categories: 
+---
+
+
+
+I have learn a lot in the past two days i have been here,
 since well this is my second blog post i want to share my experience about 
 codinground.
 
