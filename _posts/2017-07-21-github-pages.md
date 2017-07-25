@@ -1,4 +1,12 @@
-﻿Github Pages
+---
+layout: 
+title:  "github pages"
+date:   2017-07-21 09:45
+categories: 
+---
+
+
+Github Pages
 
 Github pages is a static site hosting server.
 
