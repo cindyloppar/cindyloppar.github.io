@@ -1,4 +1,13 @@
-﻿Agile Software development
+---
+layout: 
+title:  "agile methodology"
+date:   2017-07-18 09:36
+categories: 
+---
+
+
+
+Agile Software development
 
 Agile is a method used when there is a team of people running a project and when working as 
 a team and implementing agile method the team self organised, self- disciplined and as a 
