@@ -1,4 +1,11 @@
-﻿My observation from last week was that i was reading books a lot about 
+---
+layout: 
+title:  "laskweek observation"
+date:   2017-07-24 09:48
+categories: 
+---
+
+My observation from last week was that i was reading books a lot about 
 design thinking user experience, comparison of multi-paradigm programming 
 languages etc and learning how to type in the right way at typing club. 
 I was also doing my new webpage. 
