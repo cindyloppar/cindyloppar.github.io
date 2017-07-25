@@ -1,4 +1,4 @@
-How to read a book.
+﻿How to read a book.
 
 There are two different ways of reading a book, you can read it for information or reading to gain knowledge. if one needs to gain knowledge it is good for him/her to read books which are above his/her current level and that is how you improve your mental capacity, when reading for entertainment one doesnt really learn nor gain more knowledge.
 

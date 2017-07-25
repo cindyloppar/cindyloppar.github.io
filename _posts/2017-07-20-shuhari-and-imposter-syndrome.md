@@ -1,4 +1,4 @@
-Shu Ha Ri
+﻿Shu Ha Ri
 
 Shu- We repeat the rules and discipline ourselvesso that our bodies 
 absourb the rules that our forebears created. We remain faithfulto these 

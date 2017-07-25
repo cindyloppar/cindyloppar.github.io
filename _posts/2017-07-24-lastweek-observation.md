@@ -1,4 +1,4 @@
-My observation from last week was that i was reading books a lot about 
+﻿My observation from last week was that i was reading books a lot about 
 design thinking user experience, comparison of multi-paradigm programming 
 languages etc and learning how to type in the right way at typing club. 
 I was also doing my new webpage. 
