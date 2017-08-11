@@ -1,3 +1,11 @@
+	---
+layout: 
+title:  "learning html"
+date:   2017-07-31 10:05
+categories: 
+---	
+		
+		
 		CheatSheet
 
 Cheatsheet are very useful when we need to get quick help and in many cases we forget about some codes.
