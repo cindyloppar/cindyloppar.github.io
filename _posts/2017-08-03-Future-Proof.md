@@ -1,3 +1,13 @@
+
+---
+layout: 
+title:  "future proof"
+date:   2017-08-03 12:26
+categories: 
+---			
+
+
+
 			Future Proof
 
 "Awesome or not, some things are impossible. Cordless garden hoses are impossible. So is software that changes without being changed. If you need it to adapt to future requirements, then guess what: that involves adaptation -- AKA change."

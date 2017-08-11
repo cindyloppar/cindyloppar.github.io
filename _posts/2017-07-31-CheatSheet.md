@@ -1,3 +1,12 @@
+
+---
+layout: 
+title:  "cheatsheet"
+date:   2017-07-31 10:10
+categories: 
+---	
+
+
 		CheatSheet
 
 Cheatsheet are very useful when we need to get quick help and in many cases we forget about some codes.
