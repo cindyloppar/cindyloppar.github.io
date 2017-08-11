@@ -1,6 +1,6 @@
 	---
 layout: 
-title:  "learning html"
+title:  "cheatsheet"
 date:   2017-07-31 10:05
 categories: 
 ---	
