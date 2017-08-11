@@ -17,49 +17,49 @@ Attributes/Values defines a property for an element and it appears within the el
 
 <!DOCTYPE>		Declaration defines the document type.
 
-<html></html>	Defines an htlm document.
+<html>	Defines an htlm document.
 
-<head></head>	Defines information about the document.
+<head>	Defines information about the document.
 
-<title></title>	Defines the document title.
+<title>	Defines the document title.
 
-<body></body>	Defines the body element.
+<body>	Defines the body element.
 
-<style></style>	Defines a style definition.
+<style>	Defines a style definition.
 
-<h1></h1>(important) to <h6></h6>(least)	Defines header 1 to header 6.
+<h1>(important) to <h6>(least)	Defines header 1 to header 6.
 
-<p></p>			Defines a paragraph.
+<p>		Defines a paragraph.
 
-<ol></ol>		Defines an ordered list.
+<ol>	Defines an ordered list.
 
-<ul></ul>		Defines an unordered list.
+<ul>	Defines an unordered list.
 
-<span>			Defines a section in a document.
+<span>	Defines a section in a document.
 
 <img>(image)	Defines an image.
 scr(source), alt(alternative text), width and height Its <img> attributes.
 
-<section></section>	Defines a section.
+<section>	Defines a section.
 
-<nav></nav>		Defines navigation links.
+<nav>		Defines navigation links.
 
-<li></li>		Defines a list of items.
+<li>	Defines a list of items.
 
-<a></a>			Defines a resource reference
+<a>		Defines a resource reference
 href(hyperText Reference) 	Its an attribute for which indicates the link target on <link> and <a> tag.
 
 <b>				Defines bold text.
 
 <br>			Inserts a single line break.
 
-<button></button>	Defines a push button.
+<button>	Defines a push button.
 
 <center>		Used to center align text or document.
 
 <col>			attribute for table column.
 
-<div></div>		Defines a section in a document.
+<div>		Defines a section in a document.
 
 <em>			Defines emphasized text.
 
@@ -73,7 +73,7 @@ href(hyperText Reference) 	Its an attribute for which indicates the link target 
 
 <strong>		Defines strong text.
 
-<footer></Footer>	used to define a footer for a section or page.
+<footer>	used to define a footer for a section or page.
 
-<!--...-->		Defines a comment.
+<!--...--		Defines a comment.
 

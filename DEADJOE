@@ -1,0 +1,51 @@
+
+*** These modified files were found in JOE when it aborted on Fri Aug 11 12:50:03 2017
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/home/odroid/source/cindyloppar/cindyloppar.github.io/.git/COMMIT_EDITMSG
+
+*** File '/home/odroid/source/cindyloppar/cindyloppar.github.io/.git/COMMIT_EDITMSG'
+Merge branch 'master' of https://github.com/cindyloppar/cindyloppar.github.io
+
+# Conflicts:
+#	_posts/2017-07-31-CheatSheet.md
+#	_posts/2017-08-01-https-http-ssh.md
+#	_posts/2017-08-02-Become-a-professional-learner.md
+#	_posts/2017-08-03-Future-Proof.md
+#	_posts/2017-08-07-Content-Delivery-Network.md
+#	_posts/2017-08-08-JavaSript-frameworks.md
+#	_posts/2017-08-09-a-and-link-tag.md
+#	_posts/2017-08-10-for-and-while-loop.md
+#
+# It looks like you may be committing a merge.
+# If this is not correct, please remove the file
+#	.git/MERGE_HEAD
+# and try again.
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch and 'origin/master' have diverged,
+# and have 1 and 10 different commits each, respectively.
+#   (use "git pull" to merge the remote branch into yours)
+#
+# All conflicts fixed but you are still merging.
+#
+# Changes to be committed:
+#	modified:   _posts/2017-07-31-CheatSheet.md
+#	modified:   _posts/2017-08-01-https-http-ssh.md
+#	modified:   _posts/2017-08-02-Become-a-professional-learner.md
+#	modified:   _posts/2017-08-03-Future-Proof.md
+#	modified:   _posts/2017-08-07-Content-Delivery-Network.md
+#	modified:   _posts/2017-08-08-JavaSript-frameworks.md
+#	modified:   _posts/2017-08-09-a-and-link-tag.md
+#	modified:   _posts/2017-08-10-for-and-while-loop.md
+#
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
