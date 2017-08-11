@@ -1,3 +1,11 @@
+---
+layout: 
+title:  "content delivery network(cnd)"
+date:   2017-08-07 11:45
+categories: 
+---
+
+
 Content Delivery Network(CDN)
 
 A content Delivery Network is a geographically distributed network of proxy servers and their data centers.
