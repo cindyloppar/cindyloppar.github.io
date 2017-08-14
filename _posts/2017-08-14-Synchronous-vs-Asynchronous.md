@@ -1,7 +1,7 @@
 ---
 layout: 
-title:  "last week's observation"
-date:   2017-07-24 09:48
+title:  "synchronous vs asynchronous"
+date:   2017-08-14 11:48
 categories: 
 ---
 
