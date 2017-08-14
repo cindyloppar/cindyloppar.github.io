@@ -1,13 +1,4 @@
-<<<<<<< HEAD
 
-=======
->>>>>>> 16c17c1f4c20530da797b3b18788b39456410861
----
-layout: 
-title:  "become a professional learner"
-date:   2017-08-02 09:59
-categories: 
----
 
 Become a professional learner
  
