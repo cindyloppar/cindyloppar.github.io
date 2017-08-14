@@ -1,14 +1,9 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> 16c17c1f4c20530da797b3b18788b39456410861
 ---
 layout: 
-title:  "content delivery network(cnd)"
-date:   2017-08-07 11:45
+title:  "content delivery network"
+date:   2017-08-07 09:30
 categories: 
 ---
-
 
 Content Delivery Network(CDN)
 

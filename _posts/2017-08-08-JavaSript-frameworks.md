@@ -1,22 +1,9 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> 16c17c1f4c20530da797b3b18788b39456410861
 ---
 layout: 
-title:  "javascript framework"
-date:   2017-08-08 09:20
+title:  "javascrip framework"
+date:   2017-08-08 10:48
 categories: 
-<<<<<<< HEAD
----	
-
-
-=======
----		
-		
-		
-		
->>>>>>> 16c17c1f4c20530da797b3b18788b39456410861
+---
 		java Script frameworks
 		
 Angular.js 

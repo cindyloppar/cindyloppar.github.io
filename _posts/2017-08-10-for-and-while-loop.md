@@ -1,21 +1,9 @@
-<<<<<<< HEAD
-	
-=======
->>>>>>> 16c17c1f4c20530da797b3b18788b39456410861
 ---
 layout: 
 title:  "for and while loops"
-date:   2017-08-10 10:09
+date:   2017-08-10 10:58
 categories: 
-<<<<<<< HEAD
 ---
-
-=======
----	
-	
-	
-	
->>>>>>> 16c17c1f4c20530da797b3b18788b39456410861
 	For and while loops
 
 For loop is a control flow statement for specifying iteration, which allows code to be executed repeatedly. ... This allows the body of the for-loop (the code that is being repeatedly executed) to know about the sequencing of each iteration.

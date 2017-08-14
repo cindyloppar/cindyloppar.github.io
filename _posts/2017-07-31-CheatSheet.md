@@ -1,21 +1,12 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> 16c17c1f4c20530da797b3b18788b39456410861
 ---
 layout: 
-title:  "cheatsheet"
-date:   2017-07-31 10:10
+title:  "Cheatsheet"
+date:   2017-07-31 10:02
 categories: 
----	
-<<<<<<< HEAD
+---
 
 
-=======
-		
-		
->>>>>>> 16c17c1f4c20530da797b3b18788b39456410861
-		CheatSheet
+	CheatSheet
 
 Cheatsheet are very useful when we need to get quick help and in many cases we forget about some codes.
 

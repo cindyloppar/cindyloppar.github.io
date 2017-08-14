@@ -49,3 +49,26 @@ Processing '/etc/joe/editorrc'...
 Processing '/etc/joe/ftyperc'...
 Finished processing /etc/joe/ftyperc
 Finished processing /etc/joe/editorrc
+
+*** These modified files were found in JOE when it aborted on Mon Aug 14 14:34:34 2017
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/home/odroid/source/cindyloppar/cindyloppar.github.io/.git/MERGE_MSG
+
+*** File '/home/odroid/source/cindyloppar/cindyloppar.github.io/.git/MERGE_MSG'
+-m"modified a file"
+
+Merge branch 'master' of https://github.com/cindyloppar/cindyloppar.github.io
+
+# Please enter a commit message to explain why this merge is necessary,
+# especially if it merges an updated upstream into a topic branch.
+#
+# Lines starting with '#' will be ignored, and an empty message aborts
+# the commit.
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc

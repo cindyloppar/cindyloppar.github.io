@@ -1,15 +1,9 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> 16c17c1f4c20530da797b3b18788b39456410861
 ---
 layout: 
-title:  "https,http and ssh"
-date:   2017-08-01 09:20
+title:  "https http and ssh"
+date:   2017-08-01 09:10
 categories: 
 ---
-
-
 
 HTTP
 ls an application protocol for distributed collaboration and hypermedia information systems.
