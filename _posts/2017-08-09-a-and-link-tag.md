@@ -1,10 +1,11 @@
+
 ---
 layout: 
 title:  "a and tag links"
 date:   2017-08-09 09:01
 categories: 
 ---
-	
+
 	Difference between <a></a> tag and <link /> tag
 
 link tag Is an empty element, i.e can not have anything inside of it.

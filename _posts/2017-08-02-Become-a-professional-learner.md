@@ -1,9 +1,11 @@
+
 ---
 layout: 
 title:  "become a profesional learner"
 date:   2017-08-02 09:20
 categories: 
 ---
+
 
 Become a professional learner
  
