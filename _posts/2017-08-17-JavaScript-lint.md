@@ -1,4 +1,13 @@
-		JavaScript lints.
+---
+layout: 
+title:  "single responsibility principle"
+date:   2017-08-15 10:26
+categories: 
+---		
+
+
+
+JavaScript lints.
 JavaScript Lint holds an advantage over competing lints because it is based on the JavaScript engine for the Firefox browser. This provides a robust framework that can not only check JavaScript syntax but also examine the coding techniques used in the script and warn against questionable practices.
 What It Does
 

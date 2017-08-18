@@ -1,3 +1,11 @@
+---
+layout: 
+title:  "single responsibility principle"
+date:   2017-08-15 10:26
+categories: 
+---
+
+
 		Bugs 
 
 Is an error or fault in a computer program that causes it to produce an incorrect result or to behava in an unintended way.
