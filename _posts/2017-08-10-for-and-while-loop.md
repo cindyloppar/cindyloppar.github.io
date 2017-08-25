@@ -1,4 +1,3 @@
-
 ---
 layout: 
 title:  "for and while loops"

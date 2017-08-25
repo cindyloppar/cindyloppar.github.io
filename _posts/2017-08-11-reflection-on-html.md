@@ -1,4 +1,3 @@
-
 ---
 layout: 
 title:  "reflection about html"
@@ -38,6 +37,7 @@ Attributes/Values defines a property for an element and it appears within the el
 <span>	Defines a section in a document.
 
 <img>(image)	Defines an image.
+
 scr(source), alt(alternative text), width and height Its <img> attributes.
 
 <section>	Defines a section.
@@ -75,5 +75,5 @@ href(hyperText Reference) 	Its an attribute for which indicates the link target 
 
 <footer>	used to define a footer for a section or page.
 
-<!--...--		Defines a comment.
+<!--...-->		Defines a comment.
 
