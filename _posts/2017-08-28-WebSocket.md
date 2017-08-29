@@ -1,7 +1,7 @@
 ---
 layout: 
-title:  "synchronous vs asynchronous"
-date:   2017-08-14 11:48
+title:  "WebSockets"
+date:   2017-08-28 11:48
 categories: 
 ---
 Accurancy = 95%
