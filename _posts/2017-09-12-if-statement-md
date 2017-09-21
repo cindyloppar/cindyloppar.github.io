@@ -1,0 +1,35 @@
+---
+layout: 
+title:  "if-statement"
+date:   2017-09-12 10:31
+categories: 
+---
+Accuracy = 98%
+speed = 32WPM
+Duration = 86 seconds
+
+		if-statement
+
+Use if to specify a block of code to be executed, if a specified condition is true.
+
+Use else to specify a block of code to be executed, if the same condition is false.
+
+Use else if to specify a new condition to test, if the first conditon is false.
+
+Use switch to specify many alternative blocks of code to be executed.
+
+Code Refactoring
+
+Is the process of restructuring existing computer code.
+Changing the following without changing its external behaviour.
+
+Refactoring improves non-Function attributes of the software.
+
+Advantages include improved code readability and reduced complixity.
+
+These can improve source-code maintainability.
+
+ 
+
+
+
