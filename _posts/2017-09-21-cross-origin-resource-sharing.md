@@ -1,6 +1,6 @@
 ---
 layout: 
-title:  "typing"
+title:  "Cross origin resource sharing"
 date:   2017-09-21 10:42
 categories: 
 ---
