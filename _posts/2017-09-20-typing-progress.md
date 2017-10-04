@@ -35,9 +35,9 @@ speed = WPM
 Duration = seconds
 
 2017-09-29
-Accuracy = %
-speed = WPM
-Duration = seconds
+Accuracy = 96%
+speed = 30WPM
+Duration = 01:22 minutes
 
 2017-10-02
 Accuracy = 97%
@@ -45,21 +45,21 @@ speed = 33 WPM
 Duration =01:48 minutes
 
 2017-10-03
-Accuracy = %
-speed = WPM
-Duration = seconds
+Accuracy = 99%
+speed = 34WPM
+Duration = 01:58
 
 2017-10-04
-Accuracy = %
-speed = WPM
-Duration = seconds
+Accuracy = 98%
+speed = 31 WPM
+Duration = 01:49 minutes
 
 2017-10-05
 Accuracy = %
 speed = WPM
-Duration = seconds
+Duration = 
 
 2017-10-06
 Accuracy = %
 speed = WPM
-Duration = seconds
+Duration = 
