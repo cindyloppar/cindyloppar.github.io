@@ -55,9 +55,9 @@ speed = 31 WPM
 Duration = 01:49 minutes
 
 2017-10-05
-Accuracy = %
-speed = WPM
-Duration = 
+Accuracy = 97%
+speed = 37 WPM
+Duration = 01:45
 
 2017-10-06
 Accuracy = %
