@@ -1,7 +1,7 @@
 ---
 layout: 
 title:  "GET vs POST"
-date:   2017-10-01 10:42
+date:   2017-10-02 10:42
 categories: 
 ---
 
