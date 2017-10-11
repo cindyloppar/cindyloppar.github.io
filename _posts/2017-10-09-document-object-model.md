@@ -1,7 +1,7 @@
 ﻿---
 layout: 
 
-title:  "HTTP header and body"
+title:  "document object model"
 
 date:   2017-10-09 02:59
 
