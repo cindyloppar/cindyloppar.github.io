@@ -1,8 +1,8 @@
 ---
-layout: 
-title:  "Wherefore art thou"
-date:   2017-11-07 15:12
-categories: 
+Layout: 
+Title:  "Wherefore art thou"
+Date:   2017-11-07 15:12
+Categories: 
 ---
 
 

@@ -1,8 +1,8 @@
 ---
-layout: 
-title:  "Random Article"
-date:   2017-10-30 14:45
-categories: 
+Layout: 
+Title:  "Random Article"
+Date:   2017-10-30 14:45
+Categories: 
 ---
 
 Random Article

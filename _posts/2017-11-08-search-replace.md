@@ -1,8 +1,8 @@
 ---
-layout: 
-title:  "Search and Replace"
-date:   2017-11-08 15:13
-categories: 
+Layout: 
+Title:  "Search and Replace"
+Date:   2017-11-08 15:13
+Categories: 
 ---
 
 Freecodecamp
