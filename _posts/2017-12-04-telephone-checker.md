@@ -2,7 +2,7 @@
 Layout:
 Title: "Telephone checker"
 Date: 2017-12-02 13:09
-Categorie:
+Categories:
 ---
 
 ## Telephone checker

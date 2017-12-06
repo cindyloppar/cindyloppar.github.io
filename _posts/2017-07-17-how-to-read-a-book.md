@@ -1,8 +1,8 @@
 ---
-layout: 
-title:  "How to read a book"
-date:   2017-07-17 09:34
-categories: 
+Layout: 
+Title:  "How to read a book"
+Tate:   2017-07-17 09:34
+Categories: 
 ---
 
 
