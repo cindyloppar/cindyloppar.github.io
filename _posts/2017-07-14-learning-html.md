@@ -1,11 +1,11 @@
 ---
-layout: 
-title:  "learning html"
-date:   2017-07-14 09:31
-categories: 
+Layout: 
+Title:  "learning html"
+Date:   2017-07-14 09:31
+Categories: 
 ---
 
-
+## Learning html
 
 I have learn a lot in the past two days i have been here,
 since well this is my second blog post i want to share my experience about 
