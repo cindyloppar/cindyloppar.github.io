@@ -38,7 +38,7 @@ A function which checks for the matching letters then filtering the ones which w
   });
                                         
                                          
-return permutation.length;
+return permutation.length
   
 
 
