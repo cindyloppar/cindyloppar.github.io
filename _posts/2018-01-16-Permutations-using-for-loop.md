@@ -11,7 +11,7 @@ I had a function which takes two parameters and in the paremeters one of them I 
 
 A for loop which will iterate through each an every character and variable c at index i should be 0, assigned i to be zero and followed by a while loop which checks if i is less than n(is our lenght of the given string). An If statement to check if c at index i is less than i and if i is even and strickly equal to zero, if thats the case I created a variable called splitted so that I split the string and I swapped the characters. If they are not even it should swap the other ones which are not even.
 
- if (i % 2 === 0) {
+ }if (i % 2 === 0) {
                 var splitted = a.split('');
                 const temp0 = splitted[0];
                 const tempi = splitted[i];
@@ -39,7 +39,7 @@ A function which checks for the matching letters then filtering the ones which w
                                         
                                          
 return permutation.length;
-}     
+  
 
 
 
