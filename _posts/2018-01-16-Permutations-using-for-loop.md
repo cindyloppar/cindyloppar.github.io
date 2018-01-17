@@ -1,7 +1,9 @@
+---
 Layout:
 Title: "Permutations using for loop"
 Date: 2018-01-16 08:58
 Categories:
+---
 
 # Permutations using for loop
 
