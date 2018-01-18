@@ -14,11 +14,11 @@ For example, aab should return 2 because it has 6 total permutations (aab, aab, 
 
 firstly I needed to understand what is permutation inorder for me to solve this excise I was given. Permutation means each of several possible ways in which a set or number of things can be ordered or arranged in sequence. 
 
-I also followed a heap algorithm to solve this problem as it was given me challenges and it was complex here is a link to look up for algorithm: https://en.m.wikipedia.org/wiki/Heap%27s_algorithm . In this algorithm shows that there are two ways to solve this complex problem which is using recursion and a for loop which is the one worked for me.
+I also followed a heap algorithm to solve this problem as it was giving me challenges and it was complex, here is a link to look up for the algorithm: https://en.m.wikipedia.org/wiki/Heap%27s_algorithm . In this algorithm it shows that there are two ways to solve this complex problem which is using recursion and you can use a for loop. I used a for loop and it worked for me and even recursion worked.
 
 I had a function which takes two parameters and in the paremeters one of them I made it as a default. Assigned results and c as empty arrays, whenever a new array is created should be placed in these empty arrays.
 
-A for loop which will iterate through each an every character and variable c at index i should be 0, assigned i to be zero and followed by a while loop which checks if i is less than n(is our lenght of the given string). An If statement to check if c at index i is less than i and if i is even and strickly equal to zero, if thats the case I created a variable called splitted so that I split the string and I swapped the characters. If they are not even it should swap the other ones which are not even.
+A for loop which will iterate through each an every character and variable c at index i should be 0, assigned i to be zero and followed by a while loop which checks if i is less than n( n is our lenght of the given string). An If statement to check if c at index i is less than i and if i is even and strickly equal to zero, if thats the case I created a variable called splitted so that I split the string and I swapped the characters. If they are not even it should swap the other ones which are not even.
 
  if (i % 2 === 0) {
                 var splitted = a.split('');
