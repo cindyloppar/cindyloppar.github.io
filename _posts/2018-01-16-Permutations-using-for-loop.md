@@ -14,7 +14,7 @@ For example, aab should return 2 because it has 6 total permutations (aab, aab, 
 
 firstly I needed to understand what is permutation inorder for me to solve this excise I was given. Permutation means each of several possible ways in which a set or number of things can be ordered or arranged in sequence. 
 
-I also followed a heap algorithm to solve this problem as it was giving me challenges and it was complex, here is a link to look up for the algorithm: https://en.m.wikipedia.org/wiki/Heap%27s_algorithm . In this algorithm it shows that there are two ways to solve this complex problem which is using recursion and you can use a for loop. I used a for loop and it worked for me and even recursion worked.
+I followed a heap algorithm to solve this problem as it was giving me challenges and it was complex, here is a link to look up for the algorithm: https://en.m.wikipedia.org/wiki/Heap%27s_algorithm . In this algorithm it shows that there are two ways to solve this complex problem which is using recursion and you can use a for loop. I used a for loop and it worked for me and even recursion worked.
 
 I had a function which takes two parameters and in the paremeters one of them I made it as a default. Assigned results and c as empty arrays, whenever a new array is created should be placed in these empty arrays.
 
