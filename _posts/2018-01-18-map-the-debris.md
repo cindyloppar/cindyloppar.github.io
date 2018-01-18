@@ -7,10 +7,8 @@ Categories:
 
 # Map the Debris
 
-Return a new array that transforms the element's average altitude into their orbital periods.
-
+I was given an exercise to return a new array that transforms the element's average altitude into their orbital periods.
 The array will contain objects in the format {name: 'name', avgAlt: avgAlt}.
-
 The radius of the earth is 6367.4447 kilometers, and the GM value of earth is 398600.4418 km3s-2.
 
 ## How I solved the problem
