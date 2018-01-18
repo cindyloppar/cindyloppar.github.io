@@ -39,9 +39,9 @@ A for loop which will iterate through each an every character and variable c at 
         results.push(a);
         }
 
-After it has pushed the new array which is swapped it will then append one 1 else if c index i is equal to 0 that it will append 1 on i which is equal to one(1). 
+After it has pushed the new array which is swapped it will then append one if c index i is equal to 0 then it will append 1 on i which is equal to zero. 
 
-A function which checks for the matching letters then filtering the ones which will check for repeating and filter them them out, using regex and return the length of the letters.
+A function which checks for the matching letters then filtering the ones which are repeating, using regex and return the length of the letters.
 
      var permutation = results.filter(function(letters){
      return !letters.match(/(.)\1+/g);
