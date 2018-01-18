@@ -6,6 +6,30 @@ Categories:
 ---
 
 # Make a person
+In this exercise I am supposed to use these methods which I am given to make the code work and to complete the exercise.
+Fill in the object constructor with the following methods below:
+
+    getFirstName()
+    getLastName()
+    getFullName()
+    setFirstName(first)
+    setLastName(last)
+    setFullName(firstAndLast)
+
+Run the tests to see the expected output for each method.
+
+The methods that take an argument must accept only one argument and it has to be a string.
+
+These methods must be the only available means of interacting with the object.
+
+## How I solved the problem
+
+The this Keyword
+
+In JavaScript, the thing called this, is the object that "owns" the JavaScript code.
+The value of this, when used in a function, is the object that "owns" the function. when used in an object, is the object itself.
+The this keyword in an object constructor does not have a value. It is only a substitute for the new object.
+The value of this will become the new object when the constructor is used to create an object.
 
 Assigned a varaible name with a function and one parameter, this method which gets a full name using a function and access it from outside the function where a new value was assigned so that a function can access it.
 I had another two get function which gets the first name and the other one gets the last name. I splitted them then got them using their index.
