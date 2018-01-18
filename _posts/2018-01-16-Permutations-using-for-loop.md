@@ -10,7 +10,7 @@ Categories:
 The excise I was given was to return the number of total permutations of the provided string that don't have repeated consecutive letters and I should assume that all characters in the provided string are each unique.
 For example, aab should return 2 because it has 6 total permutations (aab, aab, aba, aba, baa, baa), but only 2 of them (aba and aba) don't have the same letter (in this case a) repeating.
 
-## How I solve the problem
+## How I solved the problem
 
 firstly I needed to understand what is permutation inorder for me to solve this excise I was given. Permutation means each of several possible ways in which a set or number of things can be ordered or arranged in sequence.
 if the set is already ordered, rearranging (reordering) its elements, a process called permuting. For example there are six permutations of the set {1,2,3}, namely: (1,2,3), (1,3,2), (2,1,3), (2,3,1), (3,1,2), and (3,2,1). These are all the possible orderings of this three element set. 
