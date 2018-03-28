@@ -1,6 +1,6 @@
 ---
 Layout: 
-Title: "Hash based routing"
+Title: "History API routing"
 Date: 2018-03-16 14:56
 Categories:
 ---
