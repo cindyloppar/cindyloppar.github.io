@@ -1,4 +1,3 @@
-
 ---
 Layout: 
 Title: "TypeScript"
