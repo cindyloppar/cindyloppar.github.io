@@ -17,4 +17,5 @@ It support tools for large-scale JavaScript application for any browser, any hos
 
 ## Features of TypeScript
 
+TypeScript is just JavaScript 
 
