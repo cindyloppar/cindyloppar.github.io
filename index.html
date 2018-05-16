@@ -11,72 +11,93 @@
 </head>
 
 <style>
-    body {
-        background-color: rgb(204, 0, 51);
-        color: black;
-        font-family: Italic;
-        padding-top:50px;
-        padding-bottom:30px;
-    }
-
-    .smaller-image {
-        width: 500px;
-        border: 5px thin;
-        border-radius: 10px;
-        text-align: left;
-    }
-
-    .main {
+    header {
         text-align: center;
-    }
-
-    .head>h1 {
-        font-size: 30px;
-        font-family: 'Palatino Linotype';
-    }
-
-
-    .move-text {
-        text-align: left;
-        font-size: 18px;
-        font-family: Arial;
-
-    }
-
-    .left {
-        text-align: left;
-        font-size: 20px;
-    }
-
-    .top-bar {
-      background-color: #34495e
-    }
+      background: url("http://dash.ga.co/assets/anna-bg.png");
+      background-size: cover;
+      background-position: center; 
    
+      color: white;
+      font-family: helvetica;
+    }
+
+    a {
+        color: white;
+    }
+
+    h1 {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 30px;
+        
+    }
+
+    img {
+        margin: 40px 0px 0px 0px;
+        border: 7px solid rgb(134, 145, 156);
+        border-radius: 20px;
+        width: 320px;
+    }
+
+    ul {
+        padding: 10px;
+        background: rgba(0, 0, 0, 0.5);
+    }
+
+    li {
+        display: inline;
+        padding: 0px 10px 0px 10px;
+    }
+
+
+    @media (max-width: 500px) {
+        h1 {
+            font-size: 36px;
+          
+        }
+        li {
+            display: block;
+            padding: 5px;
+        }
+         body {
+            background: lightgrey;
+        } 
+    }
+
+#para{
+    background-color: rgb(65, 62, 62);
+    color: whitesmoke;
+    padding: 30px;
+    
+}
 </style>
+</head>
 
 <body>
 
-    <div class="main">
-
-            <nav class="row top-bar">
-                    <div class="col-md-1 btn-express"><a href="#Portfolio">Portfolio</a></div>
-            </nav>
-        <div class="head">
-
-            <h1 Class="center">CINDY MAHLANGU </h1>
-        </div>
+    <header>
+            <img src="IMG_0527.jpg">
+        <h1>Cindyloppar</h1>
+        <ul>
+            <li>
+                <a href="https://cindyloppar.github.io/about%20me.html">About Me</a>
+            </li>
+            <li>
+                <a href="https://cindyloppar.github.io/blog">Blog Post</a>
+            </li>
+            <li>
+                <a href="https://cindyloppar.github.io/the-coding-ground-page.html">TCG Page</a>
+            </li> 
+        </ul>
         
-        <div class="content"><img class="smaller-image" src="IMG_0527.jpg" alt="cindy">
-            <p style="font-size:20px; font-family: 'Arial Rounded MT';">
-            I am Cindy Mahlangu, Miss Tembisa 2nd princess 2014/2015, born and raised in Tembisa. A 20 year old young woman
-            turning 21 this September. I believe in taking advatangies given to me and making the best out of them, a
-            believer of positive outcomes in every situation and one of a kind person,interesting and jolly person, who
-            loves exploring and learning new things. I am currntly studying IT and I am a deligent individual and giving
-            the best in everything I do.
-            </p>
-        </div>
-
-
+    </header>
+    <center>
+    <p id="para">
+    
+                "A Journey of a thousand miles begins with one step :)"
+                <br>
+            Believe
+        <p>
+            </center>
 </body>
 
 </html>
