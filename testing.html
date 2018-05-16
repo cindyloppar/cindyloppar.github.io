@@ -11,57 +11,73 @@
 </head>
 
 <style>
-
-
-  #About {
-      overflow-y: auto;
-      max-width: 1024px;
-      margin: 0 auto;
-      box-shadow: 0px 0px 2px 1px rgba(0, 0, 0, 0.2);
-      background-color: #eee;
+    header {
+        text-align: center;
+        background: url('http://dash.ga.co/assets/jeff-bg.png');
+        background-size: cover;
+        color: white;
     }
 
-    #Portfolio {
-      overflow-y: auto;
-      max-width: 1024px;
-      margin: 0 auto;
-      box-shadow: 0px 0px 2px 1px rgba(0, 0, 0, 0.2);
-    }
-    .top-bar {
-      background-color: #34495e
+    a {
+        color: white;
     }
 
+    h1 {
+        font-family: Indie flower;
+        font-size: 60px;
+    }
+
+    img {
+        margin: 40px 0px 0px 0px;
+        border: 7px solid rgb(233, 135, 135);
+        border-radius: 20px;
+        width: 300px;
+    }
+
+    ul {
+        padding: 10px;
+        background: rgba(0, 0, 0, 0.5);
+    }
+
+    li {
+        display: inline;
+        padding: 0px 10px 0px 10px;
+    }
+
+
+    @media (max-width: 500px) {
+        h1 {
+            font-size: 36px;
+          
+        }
+        li {
+            display: block;
+            padding: 5px;
+        }
+        body {
+            background: red;
+        }
+    }
 </style>
+</head>
 
 <body>
-<body class="container-fluid body-bg">
-    <div>
-      <nav class="row top-bar">
-        <div class="col-md-9">
-          <h3>Cindyloppar</h3>
-        </div>
-        <div class="col-md-1 btn-express"><a href="#About">About</a></div>
-        <div class="col-md-1 btn-express"><a href="#Portfolio">Portfolio</a></div>
-        </div>
-      </nav>
-    </div>
 
- <section class="container-fluid" id="About">
-      <div class="col-md-12">
-        <h2>
-          <center>About</center>
-        </h2>
-      </div>
-      <div class="row">
-        <div class="col-md-5"><img class="border-circle" width="350px" height="450px" src="https://cindyloppar.github.io/img4.jpg"></div>
-
-        <div class="col-md-6">
-          <p class="top-padding">"A journey of a thousand miles begin with one step. " I am currently studying with the coding ground,learning HTML
-            and Javascript. A Model and a Singer.
-          </p>
-        </div>
-      </div>
-    </section>
+    <header>
+        <img src="IMG_0527.jpg">
+        <h1>Loppar</h1>
+        <ul>
+            <li>
+                <a href="#">About Me</a>
+            </li>
+            <li>
+                <a href="https://cindyloppar.github.io/blog">Blog Post</a>
+            </li>
+            <li>
+                <a href="#">TCG Page</a>
+            </li> 
+        </ul>
+    </header>
 </body>
 
 </html>
