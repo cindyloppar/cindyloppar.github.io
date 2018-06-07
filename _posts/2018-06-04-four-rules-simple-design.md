@@ -8,10 +8,10 @@ Categories:
 
 # Four Rules of Simple Design 
 
-* 1. Tests pass
-* 2.Expresses Intent
-* 3.No Duplication(DRY)
-* 4.Small
+* Tests pass
+* Expresses Intent
+* No Duplication(DRY)
+* Small
 
 The four rules of simple designs was written by Kent back, The important thing about these rules is that they iterate over each other.Frequently, fixing a naming issue will uncover some duplication.
 Eliminating that duplication will then reveal some expressiveness that can be improved.   
