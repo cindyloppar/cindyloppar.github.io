@@ -17,34 +17,67 @@
             margin: 0 auto;
             box-shadow: 0px 0px 2px 1px rgba(0, 0, 0, 0.2);
         }
+        li {
+        display: inline;
+        padding: 0px 10px 0px 10px;
+    }
+
+
+    @media (max-width: 500px) {
+        h1 {
+            font-size: 36px;
+
+        }
+        li {
+            display: block;
+            padding: 5px;
+        }
+        body {
+            background: lightgrey;
+        }
+    }
     </style>
 
     <body>
-                    <h3>About me</h3>
-                    <p>
-                    My name is Cindy Mahlangu. I am 21 year old. Since my High School days, I have worked very hard to ensure
-                    that I make my life better and as a young woman I believe that education is still a prerequisite for
-                    opening doors to success. I am a very passionate person, outgoing, hardworking and very determined in
-                    everything I do. I am very interested in learning new things and exploring. I am a risk taker and I love
-                    traveling the world.
-                    </p>
-        
-                   <h3> What I have done previous years</h3>
-                <p>
-                    In high school (2013) we formed an after school program which we were assisting the grade 9 with the subjects they faced
-                    difficulties in. We formed the after school program because there was a high rate of fail at school.
-                    <br>
-                    I am also former Miss Tembisa 2nd Princess 2014/2015, as Miss Tembisa I learned a lot of things such
-                    as giving back to the community, learning to behave all the time like a lady and attending all kind,
-                    it was quite an exciting experience and a motivation to grow and achieve.
-                </p>
+        <header>
+            <ul>
+                <li>
+                    <a href="https://cindyloppar.github.io/blog">
+                        <button id="blog">Blog Post</button>
+                    </a>
+                </li>
 
-                <h3> What I am currently doing</h3>
-                <p>
-                    I am currently studying Public Relation with the University of South Africa and I am also learning programming with The Coding
-                    Ground, I am learning a lot and I am learning Javascript, React and Redux. There's still more to learn,
-                    but so far this is what I am doing
-                </p>
+                <li>
+                    <a href="https://cindyloppar.github.io/the-coding-ground-page.html">
+                        <button id='tcg'>TCG Page</button>
+                    </a>
+                </li>
+            </ul>
+
+            <h3>About me</h3>
+            <p>
+                My name is Cindy Mahlangu. I am 21 year old. Since my High School days, I have worked very hard to ensure that I make my
+                life better and as a young woman I believe that education is still a prerequisite for opening doors to success.
+                I am a very passionate person, outgoing, hardworking and very determined in everything I do. I am very interested
+                in learning new things and exploring. I am a risk taker and I love traveling the world.
+            </p>
+
+            <h3> What I have done previous years</h3>
+            <p>
+                In high school (2013) we formed an after school program which we were assisting the grade 9 with the subjects they faced
+                difficulties in. We formed the after school program because there was a high rate of fail at school.
+                <br> I am also former Miss Tembisa 2nd Princess 2014/2015, as Miss Tembisa I learned a lot of things such as
+                giving back to the community, learning to behave all the time like a lady and attending all kind, it was
+                quite an exciting experience and a motivation to grow and achieve.
+            </p>
+
+            <h3> What I am currently doing</h3>
+            <p>
+                I am currently studying Public Relation with the University of South Africa and I am also learning programming with The Coding
+                Ground, I am learning a lot and I am learning Javascript, React and Redux. There's still more to learn, but
+                so far this is what I am doing
+            </p>
     </body>
+    </header>
 
     </html>
