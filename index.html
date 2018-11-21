@@ -1,12 +1,17 @@
-
-
 <html>
 
 <head>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.6/css/bootstrap.min.css"
-        integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" href="Bootstrap.css" media="screen">
 
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="https://getbootstrap.com/favicon.ico">
+    <link href="./Cover Template for Bootstrap_files/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="./Cover Template for Bootstrap_files/cover.css" rel="stylesheet">
     <title> Cindy's first website page :)</title>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -18,140 +23,129 @@
 
         gtag('config', 'UA-121170162-1');
     </script>
-   <script>
-var contactMeToken ="e5fa101fce2bc620d3c2da2922ec1e8a8aba5293b6c2c4075fbf90e8328dc094";
-var script = document.createElement("script");
-script.src = "http://localhost:3003/main.js";
-document.head.appendChild(script);
-</script>
+    <script>
+        var cmToken = "e965b37ea0fb3a4320d31e50a57d0c0c4639ffc33c699381ba0422091553b1e3"; var cmUrl = "http://localhost:3003";
+        var script = document.createElement("script");
+        script.src = "http://localhost:3000/main.js";
+        document.head.appendChild(script);
+    </script>
 
 </head>
 <style>
+    a,
+    a:focus,
+    a:hover {
+        color: #fff;
+    }
+
+    /* Custom default button */
+
+    .btn-secondary,
+    .btn-secondary:hover,
+    .btn-secondary:focus {
+        color: #333;
+        text-shadow: none;
+        /* Prevent inheritance from `body` */
+        background-color: #fff;
+        border: .05rem solid #fff;
+    }
+
+    html,
     body {
-        background: url("http://dash.ga.co/assets/anna-bg.png");
+        height: 100%;
+        background-color: #333;
+    }
+
+    body {
+        background: url("file:///home/cindy/Downloads/beautiful-3518902_1920.jpg");
         background-size: cover;
-        /* background-repeat: no-repeat; */
-        background-position: center;
-        background-attachment: fixed;
-        color: whitesmoke;
-        font-family: helvetica;
-        text-align: center;
-        height: -1px;
-        width: -1px;
+        display: -ms-flexbox;
+        display: flex;
+        color: #fff;
+        text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
+        box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
     }
 
-    header {
-        color: whitesmoke;
-        font-family: helvetica;
-        text-align: center;
-    }
-
-    #about {
-        text-align: center;
-        color: rgb(34, 29, 29);
-    }
-
-    #blog {
-        color: rgb(43, 38, 38);
-        text-align: center;
-    }
-
-    #tcg {
-        color: rgb(43, 37, 37);
-        text-align: center;
-    }
-
-    a {
-        color: rgb(48, 44, 44);
-        text-align: center;
-
-    }
-
-    h1 {
-        font-family: Arial, Helvetica, sans-serif;
-        font-size: 30px;
-
-    }
-
-    #img {
-        /* margin: 40px 0px 0px 0px; */
-        border: 7px solid rgb(134, 145, 156);
-        border-radius: 20px;
-        width: 120px;
-        position: center;
-        margin-bottom: 20px;
-        margin-top: 300px;
-
-    }
-
-    ul {
-        padding: 10px;
-        background: rgba(0, 0, 0, 0.5);
-    }
-
-    li {
-        display: inline;
-        padding: 0px 10px 0px 10px;
+    .cover-container {
+        max-width: 42em;
     }
 
 
-    @media (max-width: 500px) {
-        h1 {
-            font-size: 36px;
+    /*
+ * Header
+ */
 
+    .masthead {
+        margin-bottom: 2rem;
+    }
+
+    .masthead-brand {
+        margin-bottom: 0;
+    }
+
+    .nav-masthead .nav-link {
+        padding: .25rem 0;
+        font-weight: 700;
+        color: rgba(255, 255, 255, .5);
+        background-color: transparent;
+        border-bottom: .25rem solid transparent;
+    }
+
+    .nav-masthead .nav-link:hover,
+    .nav-masthead .nav-link:focus {
+        border-bottom-color: rgba(255, 255, 255, .25);
+    }
+
+    .nav-masthead .nav-link+.nav-link {
+        margin-left: 1rem;
+    }
+
+    .nav-masthead .active {
+        color: #fff;
+        border-bottom-color: #fff;
+    }
+
+    @media (min-width: 48em) {
+        .masthead-brand {
+            float: left;
         }
-        li {
-            display: block;
-            padding: 5px;
+        .nav-masthead {
+            float: right;
         }
-        body {
-            background: lightgrey;
-            padding: 50px;
-        }
-        #img {
-            /* margin: 40px 0px 0px 0px; */
-            border: 7px solid rgb(134, 145, 156);
-            border-radius: 20px;
-            width: 120px;
-            position: center;
-            margin-bottom: 20px;
-            margin-top: 500px;
+    }
 
-        }
+
+    /*
+ * Cover
+ */
+
+    .cover {
+        padding: 0 1.5rem;
+    }
+
+    .cover .btn-lg {
+        padding: .75rem 1.25rem;
+        font-weight: 700;
     }
 </style>
 </head>
 
 <body>
 
-    <img id='img' src="image2.jpeg">
-    <header>
-        <h1>Welcome to my webpage!!!</h1>
-        <center>
-            <h3>"A Journey of a thousand miles begins with one step "</h3>
-        </center>
-        <ul>
-
-            <li>
-                <a id='about' href="https://cindyloppar.github.io/aboutme.html">
-                    <button class="about">About Me</button>
-                </a>
-            </li>
-
-            <li>
-                <a href="https://cindyloppar.github.io/blog">
-                    <button id="blog">Blog Post</button>
-                </a>
-            </li>
-
-            <li>
-                <a href="https://cindyloppar.github.io/the-coding-ground-page.html">
-                    <button id='tcg'>TCG Page</button>
-                </a>
-            </li>
-        </ul>
-
-    </header>
+    <!-- <img id='img' src="image2.jpeg"> -->
+    <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
+        <header class="masthead mb-auto">
+            <div class="inner">
+                <h3 class="masthead-brand">Cindy Lauper</h3>
+                <nav class="nav nav-masthead justify-content-center">
+                    <a class="nav-link active" href="https://getbootstrap.com/docs/4.1/examples/cover/#">About</a>
+                    <a class="nav-link" href="https://getbootstrap.com/docs/4.1/examples/cover/#">Blog Posts</a>
+                    <a class="nav-link" href="https://getbootstrap.com/docs/4.1/examples/cover/#">TCG Projects</a>
+                </nav>
+            </div>
+        </header>
+        
+        </main>
 </body>
 
 </html>
