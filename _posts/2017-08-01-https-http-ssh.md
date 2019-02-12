@@ -7,7 +7,8 @@ categories:
 ---
 
 
-HTTP
+# HTTP
+
 ls an application protocol for distributed collaboration and hypermedia information systems.
 
 HTTP is the protocol that web browers and servers use to communicate with each other over the internet.

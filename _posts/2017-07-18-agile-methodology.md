@@ -2,7 +2,7 @@
 Layout: 
 Title:  "agile methodology"
 Date:   2017-07-18 09:36
-Categorie: 
+Categories: 
 ---
 
 

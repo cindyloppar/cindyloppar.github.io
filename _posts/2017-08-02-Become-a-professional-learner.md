@@ -7,7 +7,7 @@ categories:
 ---
 
 
-Become a professional learner
+# Become a professional learner
  
 In the software industry one should learn by synthesizing with all information he or she gathered, if one needs to be the best craftsmanship. A classroom-based teaching is not suffice as a Software developer.
 

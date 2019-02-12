@@ -6,7 +6,7 @@ categories:
 ---
 
 
-Synchronous vs Asynchronous
+# Synchronous vs Asynchronous
 
 Synchronous, or Synchronized means "dependent" in a way. In other words, two synchronous tasks must be aware of one another, and one task must execute in a way that is dependent on the other, such as wait to start until the other task has completed.
 

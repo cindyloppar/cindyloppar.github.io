@@ -6,15 +6,14 @@ date:   2017-07-31 10:02
 categories: 
 ---
 
+# CheatSheet
 
-	CheatSheet
+CheatSheet are very useful when we need to get quick help and in many cases we forget about some codes.
 
-Cheatsheet are very useful when we need to get quick help and in many cases we forget about some codes.
-
-It is also good to make your own cheatsheet according to your weakness and strengths.
+It is also good to make your own CheatSheet according to your weakness and strengths.
 
 	Coral Site Script
-CORAL runs with a MySQL 5 backend. Each CORAL module uses its own MySQL schema. The recommended format for schema name is coral_MODULENAME_prod, e.g. coral_resources_prod. Since the database name is set in the configuration.ini file this name can be easily changed. For security purposes it is recommended to have a “coral” user which has select, insert, update and delete privileges only (no create table privileges). This “coral” user should have access to all CORAL databases for interoperability.
+CORAL runs with a MySQL 5 back-end. Each CORAL module uses its own MySQL schema. The recommended format for schema name is coral_MODULE_NAME_prod, e.g. coral_resources_prod. Since the database name is set in the configuration.ini file this name can be easily changed. For security purposes it is recommended to have a “coral” user which has select, insert, update and delete privileges only (no create table privileges). This “coral” user should have access to all CORAL databases for interoperability.
 
 https://github.com/Coral-erm/Coral/wiki/CORAL-Technical-Documentation
 

@@ -5,7 +5,7 @@ date:   2017-08-08 10:48
 categories: 
 ---
 
-		java Script frameworks
+		# java Script frameworks
 		
 Angular.js 
 Is often referred to as an MVW (Model-View-Whatever) framework and among the top benefits, for startups and mid-sized companies, people name: quick code production, easy testing of any app part and two-way data binding (changes in the backend are immediately reflected on the UI). Since release its ecosystem has gone beyond imagination. As for now, it is reasonably called the most used JS framework for SPAs (Single-Page Applications) development and it boasts the largest community of developers.
