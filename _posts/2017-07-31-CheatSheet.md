@@ -1,9 +1,9 @@
 
 ---
-layout: 
-title:  "Cheatsheet"
-date:   2017-07-31 10:02
-categories: 
+Layout: 
+Title: "CheatSheet"
+Date: 2017-07-31 10:02
+Categories:
 ---
 
 # CheatSheet
