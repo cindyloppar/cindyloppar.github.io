@@ -85,7 +85,35 @@
     border-bottom: 0.25rem solid #64a19d;
   }
 }
+.masthead h2:before,
+.masthead h2:after{
+  content: " ";
+  display: inline-block;
+  height: 2px;
+  margin: 0, 10px;
+  position: absolute;
+  top: 50%;
+  width: 80px;
+  zoom: 1;
+}
 
+
+.masthead h2:before {
+  right: 100%;
+  margin-right: 15px;
+  display: inline-block;  
+  line-height: 3rem;  
+  height: 3rem;
+  width: 3rem;
+}
+.masthead h2:after {
+  left: 100%;
+  margin-left: 15px;
+  line-height: 3rem; 
+  display: inline-block;   
+  height: 3rem;
+  width: 3rem;
+}
 .masthead {
   position: relative;
   width: 100%;
