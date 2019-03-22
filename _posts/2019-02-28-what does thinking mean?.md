@@ -17,7 +17,7 @@ Thinking is a reasonable working of various views with the knowledge that has be
 
 Thinking can be interpreted to remember something, and questioned whether there is a relationship between what is intended.
 
-Thinking is processing information mentally or cognitively be rearranging the information from the environment and the sumbols are stored in the memory of his past.
+Thinking is processing information mentally or cognitively be rearranging the information from the environment and the symbols are stored in the memory of his past.
 
 Thinking is a symbolic representation of some event train of ideas in a precise and careful that began with the problem.
 
